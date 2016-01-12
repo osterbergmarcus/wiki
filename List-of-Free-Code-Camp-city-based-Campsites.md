@@ -408,6 +408,7 @@ If your city isn't listed here, you should [[create a Campsite for your city|How
   - [Durango](https://www.facebook.com/groups/free.code.camp.durango/)
   - [Guadalajara](https://www.facebook.com/groups/fcc.guadalajara)
   - [Hermosillo](https://www.facebook.com/groups/free.code.camp.Hermosillo/)
+  - [La Paz](https://www.facebook.com/groups/free.code.camp.lapaz.mx/)
   - [Mexico City](https://www.facebook.com/groups/free.code.camp.mexico.df/)
   - [Monterrey](https://www.facebook.com/groups/free.code.camp.monterrey/)
   - [Puebla](https://www.facebook.com/groups/free.code.camp.pueblaMX/)
@@ -600,6 +601,7 @@ If your city isn't listed here, you should [[create a Campsite for your city|How
   - [Jaffna](https://www.facebook.com/groups/free.code.camp.jaffna/)
 - Sweden
   - [Stockholm](https://www.facebook.com/groups/free.code.camp.stockholm.sweden/)
+  - [Malmö](https://www.facebook.com/groups/211477459193864/)
 - Switzerland
   - [Basel](https://www.facebook.com/groups/free.code.camp.basel/)
   - [Geneva](https://www.facebook.com/groups/free.code.camp.geneva/)          
