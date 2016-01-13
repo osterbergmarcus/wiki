@@ -207,6 +207,7 @@ If your city isn't listed here, you should [[create a Campsite for your city|How
   - [Milton Keynes](https://www.facebook.com/groups/free.code.camp.milton.keynes/)
   - [Norfolk](https://www.facebook.com/groups/free.code.camp.norfolk/)  
   - [Reading](https://www.facebook.com/groups/free.code.camp.reading/)
+  - [Salisbury](https://www.facebook.com/groups/free.code.camp.salisbury/)
   - [Sheffield](https://www.facebook.com/groups/free.code.camp.sheffield/)
   - [Southampton](https://www.facebook.com/groups/FCC.Southampton/)
   - [Stoke-on-Trent](https://www.facebook.com/groups/free.code.camp.stoke.on.trent/)
@@ -236,7 +237,9 @@ If your city isn't listed here, you should [[create a Campsite for your city|How
   - [Nantes](https://www.facebook.com/groups/free.code.camp.nantes/)
   - [Paris](https://www.facebook.com/groups/free.code.camp.paris/)
   - [Poitiers](https://www.facebook.com/groups/free.code.camp.poitiers/)
-  - [Toulouse](https://www.facebook.com/groups/free.code.camp.toulouse/)  
+  - [Toulouse](https://www.facebook.com/groups/free.code.camp.toulouse/)
+- Georgia
+  - [Tbilisi](https://www.facebook.com/groups/free.code.camp.tbilisi/)
 - Germany
   - [Berlin](https://www.facebook.com/groups/free.code.camp.berlin/)
   - [Braunschweig](https://www.facebook.com/groups/free.code.camp.braunschweig/)
